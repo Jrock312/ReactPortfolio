@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.1dc5f5c1.chunk.css",
-    "main.js": "/ReactPortfolio/static/js/main.b4290b94.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.b4290b94.chunk.js.map",
-    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.0b506dc4.js",
-    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.0b506dc4.js.map",
-    "static/js/2.5378a18e.chunk.js": "/ReactPortfolio/static/js/2.5378a18e.chunk.js",
-    "static/js/2.5378a18e.chunk.js.map": "/ReactPortfolio/static/js/2.5378a18e.chunk.js.map",
-    "index.html": "/ReactPortfolio/index.html",
-    "precache-manifest.e11bce60d12d737d581db22935d3c36c.js": "/ReactPortfolio/precache-manifest.e11bce60d12d737d581db22935d3c36c.js",
-    "service-worker.js": "/ReactPortfolio/service-worker.js",
-    "static/css/main.1dc5f5c1.chunk.css.map": "/ReactPortfolio/static/css/main.1dc5f5c1.chunk.css.map",
-    "static/js/2.5378a18e.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.5378a18e.chunk.js.LICENSE.txt",
-    "static/media/Leftovers.jpg": "/ReactPortfolio/static/media/Leftovers.1629df93.jpg",
-    "static/media/Prudential.jpg": "/ReactPortfolio/static/media/Prudential.6ac6eeb0.jpg",
-    "static/media/cat and mouse.jpg": "/ReactPortfolio/static/media/cat and mouse.fbc55976.jpg",
-    "static/media/first fantasy.jpg": "/ReactPortfolio/static/media/first fantasy.2e049e29.jpg",
-    "static/media/git hub.jpg": "/ReactPortfolio/static/media/git hub.8340a949.jpg",
-    "static/media/porfolioImage.jpg": "/ReactPortfolio/static/media/porfolioImage.536d8b24.jpg",
-    "static/media/App.css": "/ReactPortfolio/static/media/spikes.5d213869.png"
+    "main.css": "/static/css/main.6cf19ffe.chunk.css",
+    "main.js": "/static/js/main.1663bc06.chunk.js",
+    "main.js.map": "/static/js/main.1663bc06.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d7d8550f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d7d8550f.js.map",
+    "static/js/2.5378a18e.chunk.js": "/static/js/2.5378a18e.chunk.js",
+    "static/js/2.5378a18e.chunk.js.map": "/static/js/2.5378a18e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.26f3dc2c61478d2e606160fbd5a84083.js": "/precache-manifest.26f3dc2c61478d2e606160fbd5a84083.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6cf19ffe.chunk.css.map": "/static/css/main.6cf19ffe.chunk.css.map",
+    "static/js/2.5378a18e.chunk.js.LICENSE.txt": "/static/js/2.5378a18e.chunk.js.LICENSE.txt",
+    "static/media/Leftovers.jpg": "/static/media/Leftovers.1629df93.jpg",
+    "static/media/Prudential.jpg": "/static/media/Prudential.6ac6eeb0.jpg",
+    "static/media/cat and mouse.jpg": "/static/media/cat and mouse.fbc55976.jpg",
+    "static/media/first fantasy.jpg": "/static/media/first fantasy.2e049e29.jpg",
+    "static/media/git hub.jpg": "/static/media/git hub.8340a949.jpg",
+    "static/media/porfolioImage.jpg": "/static/media/porfolioImage.536d8b24.jpg",
+    "static/media/App.css": "/static/media/spikes.5d213869.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b506dc4.js",
+    "static/js/runtime-main.d7d8550f.js",
     "static/js/2.5378a18e.chunk.js",
-    "static/css/main.1dc5f5c1.chunk.css",
-    "static/js/main.b4290b94.chunk.js"
+    "static/css/main.6cf19ffe.chunk.css",
+    "static/js/main.1663bc06.chunk.js"
   ]
 }
