@@ -13,8 +13,8 @@ function App() {
     <Navbar />
     <BrowserRouter>
     <Switch>
-      <Route exact path ="/" component = {Home}/>
-      <Route path = "/projects" component = {Projects}/>
+      <Route exact path ="ReactPortfolio/" component = {Home}/>
+      <Route path = "ReactPortfolio/projects" component = {Projects}/>
 
     </Switch>
     </BrowserRouter>
