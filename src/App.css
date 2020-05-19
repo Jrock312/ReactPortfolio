@@ -37,5 +37,8 @@
   }
 }
 body {
-  background-color: whitesmoke;
+  background-image: url(./Assets/spikes.png);
+}
+footer {
+  margin-top: 100px;
 }

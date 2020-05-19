@@ -2,33 +2,32 @@ import React from 'react'
 
 
 export default function Projects() {
-    const style = {backgroundColor: "pink"}
+    const style = {backgroundColor: "whitesmoke"}
     return (
         <div className="container" style ={style}>
-            <h1>Projects Page</h1>
             <div class="row">
-      <div class="col-md-4">
-        <h2>Project 1 Leftovers</h2>
-    <img id="bio-image" src="Assets/Images/Leftovers.jpg" alt="POS" style={{width: "100%"}}onclick="window.open('https://jrock312.github.io/leftovers/', '_blank');" />
-    </div>    
         <div class="col-md-4">
-            <h2>Gitbub</h2>
-    <img id="bio-image" src="Assets/Images/git hub.jpg" alt="POS" style={{width: "100%"}}onclick="window.open('https://github.com/jrock312/', '_blank');" />
+        <a class="nav-link" href="https://github.com/jrock312"><h2>Git Hub</h2></a>
+        <img src={ require('../Assets/git hub.jpg')} alt="Woops" style={{width: "100%"}} link to= {"https://github.com/jrock312"} />
     </div>  
 
     <div class="col-md-4">
-        <h2>Company Site</h2>
-    <img id="bio-image" src="Assets/Images/Prudential.jpg" alt="POS" style={{width: "100%"}}onclick="window.open('https://www.shopprudentialuniforms.com/', '_blank');" />
+    <a class="nav-link" href="https://shopprudentialuniforms.com"><h2>Company Site</h2></a>
+        <img src={ require('../Assets/Prudential.jpg')} alt="Woops" style={{width: "100%"}} link to= {"https://shopprudentialuniforms.com"} />
+    </div>    
+    <div class="col-md-4">
+    <a class="nav-link" href="https://scratch.mit.edu/projects/350505173/"><h2>Scratch Game</h2></a>
+        <img src={ require('../Assets/cat and mouse.jpg')} alt="Woops" style={{width: "100%"}} link to= {"https://scratch.mit.edu/projects/350505173/https://scratch.mit.edu/projects/350505173/"} />
+    </div>   
+    <div class="col-md-4">
+    <a class="nav-link" href="http://rocky-island-60367.herokuapp.com/members"><h2>First Fantasy</h2></a>
+        <img src={ require('../Assets/first fantasy.jpg')} alt="Woops" style={{width: "100%"}} link to= {"http://rocky-island-60367.herokuapp.com/members"} />
+    </div>    
+    <div class="col-md-4">
+      <a class="nav-link" href="https://jrock312.github.io/leftovers"><h2>Leftovers</h2></a>
+    <img src={ require('../Assets/Leftovers.jpg')} alt="Woops" style={{width: "100%"}} link to= {"https://jrock312.github.io/leftovers"} />
     </div>    
     
-    <div class="col-md-4">
-        <h2>Scratch Game</h2>
-    <img id="bio-image" src="Assets/Images/cat and mouse.jpg" alt="POS" style={{width: "100%"}}onclick="window.open('https://scratch.mit.edu/projects/350505173/', '_blank');" />
-    </div>    
-    <div class="col-md-4">
-      <h2>Project 2</h2>
-  <img id="bio-image" src="Assets/Images/first fantasy.jpg" alt="POS" style={{width: "100%"}}onclick="window.open('http://rocky-island-60367.herokuapp.com/members', '_blank');" />
-  </div>    
     </div>
         </div>
     )
