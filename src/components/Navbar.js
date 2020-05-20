@@ -12,10 +12,10 @@ export default function Navbar() {
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="/">Home</a>
+        <a class="nav-link" href="/ReactPortfolio">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/projects">Projects</a>
+        <a class="nav-link" href="/ReactPortfolio/projects">Projects</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://www.linkedin.com/in/joel-guevarra/">Linkedin</a>
