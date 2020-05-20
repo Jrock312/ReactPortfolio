@@ -5,7 +5,7 @@ export default function Footer() {
         <div>
             <footer>
   <nav class="navbar fixed-bottom navbar-dark bg-dark">
-  <a class="navbar-brand" href="/">Copyright &#9400;</a>
+  <a class="navbar-brand" href="/ReactPortfolio">Copyright &#9400;</a>
 </nav>
 </footer>
         </div>

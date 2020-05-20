@@ -14,7 +14,7 @@ function App() {
     <BrowserRouter>
       <Switch>
       <Route exact path ={["/", "/ReactPortfolio"]} component = {Home}/>
-      <Route path =  {["/Projects","/ReactPortfolio/Projects"]} component = {Projects}/>
+      <Route exact path ={["/Projects", "/ReactPortfolio/Projects"]} component = {Projects}/>
 
      </Switch>
     </BrowserRouter>
