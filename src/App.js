@@ -10,13 +10,13 @@ import Footer from  './components/Footer'
 function App() {
   return (
     <React.Fragment>
-    <Navbar />
+      <Navbar />
     <BrowserRouter>
-    <Switch>
+      <Switch>
       <Route exact path ={["/", "/ReactPortfolio"]} component = {Home}/>
       <Route path = {["/Projects", "/ReactPortfolio/Projects"]} component = {Projects}/>
 
-    </Switch>
+     </Switch>
     </BrowserRouter>
     <Footer />
     </React.Fragment>
