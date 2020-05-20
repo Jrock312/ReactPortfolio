@@ -15,7 +15,7 @@ export default function Navbar() {
         <a class="nav-link" href="/ReactPortfolio">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/ReactPortfolio/projects">Projects</a>
+        <a class="nav-link" href="/ReactPortfolio/Projects">Projects</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://www.linkedin.com/in/joel-guevarra/">Linkedin</a>
