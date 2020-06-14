@@ -1,5 +1,5 @@
-import React from 'react'
-
+import React from 'react';
+import {Route, BrowserRouter, Switch} from 'react-router-dom'
 
 export default function Navbar() {
     return (
